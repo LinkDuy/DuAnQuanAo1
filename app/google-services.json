@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "979586518288",
+    "firebase_url": "https://dack-692da-default-rtdb.firebaseio.com",
+    "project_id": "dack-692da",
+    "storage_bucket": "dack-692da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979586518288:android:714fc8a304521c22e22995",
+        "android_client_info": {
+          "package_name": "com.example.fibase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGlOwZs7AsRLeBHDoeSy2xd8YzNaH48JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979586518288:android:8888163f644c990ae22995",
+        "android_client_info": {
+          "package_name": "com.example.listdata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGlOwZs7AsRLeBHDoeSy2xd8YzNaH48JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979586518288:android:8bbabb872f82aa31e22995",
+        "android_client_info": {
+          "package_name": "com.example.loginfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGlOwZs7AsRLeBHDoeSy2xd8YzNaH48JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979586518288:android:b01f8176e3261d9ae22995",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGlOwZs7AsRLeBHDoeSy2xd8YzNaH48JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979586518288:android:7b228f807db112dee22995",
+        "android_client_info": {
+          "package_name": "com.example.quanliactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGlOwZs7AsRLeBHDoeSy2xd8YzNaH48JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
